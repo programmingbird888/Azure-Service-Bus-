@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35323.107
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DwollaProcessor", "DwollaProcessor\DwollaProcessor.csproj", "{5F268343-3109-449C-AE68-5A79BED8DEA6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5F268343-3109-449C-AE68-5A79BED8DEA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F268343-3109-449C-AE68-5A79BED8DEA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F268343-3109-449C-AE68-5A79BED8DEA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F268343-3109-449C-AE68-5A79BED8DEA6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8F5FBE3E-684B-413B-A545-D355E3C4B413}
+	EndGlobalSection
+EndGlobal
